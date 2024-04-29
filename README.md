@@ -1,6 +1,5 @@
 # adv_prog_final
 
-Youtube link: https://youtu.be/c_s-CDlda0I
 
 Image Classification using TensorFlow and Gradio
 This repository contains code for building an image classification model using TensorFlow and creating an interactive interface using Gradio. The model is trained on the Flower Photos dataset to classify images of flowers into different categories.
