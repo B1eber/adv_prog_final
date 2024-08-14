@@ -1,4 +1,4 @@
-# adv_prog_final
+# adv
 
 
 Image Classification using TensorFlow and Gradio
@@ -26,8 +26,3 @@ An interactive Gradio interface is provided for image prediction. Launch the int
 Files and Folders
 image_classification.ipynb: Jupyter notebook containing the code for model training, evaluation, and the Gradio interface.
 README.md: Documentation providing an overview of the project.
-Acknowledgments
-TensorFlow Documentation: https://www.tensorflow.org/
-Gradio Documentation: https://www.gradio.app/docs/
-Flower Photos Dataset: https://storage.googleapis.com/download.tensorflow.org/example_images/flower_photos.tgz
-Feel free to explore and extend the project based on your requirements. If you encounter any issues or have suggestions for improvements, please open an issue or create a pull request. Happy coding!
