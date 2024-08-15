@@ -1,4 +1,4 @@
-# adv
+# midterm pj IT_2206 Alibek
 
 
 Image Classification using TensorFlow and Gradio
